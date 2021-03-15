@@ -1,0 +1,256 @@
+@media screen and (max-width: 992px) {
+	.main__image {
+		display: none;
+	}
+	.item-icon {
+		display: none;
+	}
+	.item-icon-2 {
+		display: none;
+	}
+	.phone-block {
+		margin-right: 0;
+	}
+	.main {
+		padding-bottom: 50px;
+	}
+	.choooose-grid {
+		display: none;
+	}
+	.choooose__image {
+		margin-bottom: 50px;
+	}
+	.choooose__image img {
+		width: 100%;
+	}
+	.choooose-card__title {
+		line-height: 40px;
+		font-size: 40px;
+	}
+	.text-desc {
+		top: 0;
+	}
+	.choooose-card__text-2 {
+		margin-bottom: 25px;
+	}
+	.choooose-card-list-item:nth-child(2) {
+		margin-bottom: 0;
+	}
+	.product {
+		padding: 50px 0 50px 0;
+	}
+	.center {
+		justify-content: center;
+	}
+	.product__title {
+		margin-bottom: 25px;
+	}
+	.customer-grid {
+		display: none;
+	}
+	.customer {
+		padding: 50px 0;
+	}
+	.customer-text {
+		justify-content: space-between;
+	}
+	.customer-card {
+		margin-bottom: 25px;
+	}
+	.help {
+		padding: 50px 0;
+	}
+	.help-card {
+		margin-right: 0;
+		margin-left: 0;
+	}
+	.promotion__image {
+		margin: 0 auto;
+	}
+	.promotion-content {
+		margin-top: 100px;
+	}
+}
+@media screen and (max-width: 576px) {
+	.line {
+		display: none;
+	}
+	.logo-after-text {
+		display: none;
+	}
+	.main-header {
+
+	}
+	.text-2 {
+		display: none;
+	}
+	.phone-text {
+		justify-content: flex-end;
+	}
+	.logo {
+		margin-right: 10px;
+	}
+	.phone-link {
+		font-size: 16px;
+	}
+	.m-block {
+		display: block;
+	}
+	.main-content__text {
+		margin-top: 0;
+	}
+	.logo-after-text {
+		line-height: 24px;
+		font-size: 20px;	
+		margin-top: 50px;
+		margin-bottom: 25px;
+	}
+	.text-1 {
+		line-height: 24px;
+		text-align: right;
+		font-size: 20px;
+	}
+	.phone-icon {
+		margin-right: 10px;
+		width: 25px;
+		height: 25px;
+		top: 36px;
+	}
+	.logo-block {
+		margin-bottom: 0;
+	}
+	.title-h1 {
+		line-height: 72px;
+		font-size: 40px;
+	}
+	.logo-text__text {
+		font-size: 12px;
+	}
+	.phone-link span {
+		font-size: 16px;
+	}
+	.circle {
+		margin: 0 10px;
+	}
+	.main-content-list {
+		font-size: 16px;
+		justify-content: space-between;
+	}
+	.btn-link {
+		width: 100%;
+	}
+	.choooose {
+		margin: 50px 0 25px 0;
+	}
+	.choooose-card__title {
+		margin-top: 25px;
+	}
+	.customer-text {
+		flex-direction: column;
+	}
+	.line-2 {
+		margin: 15px 0;
+		width: 61px;
+		height: 1px;
+	}
+	.customer-text {
+		align-items: flex-start;
+	}
+	.m-block {
+		overflow: hidden;
+	}
+	.m-block .promotion__image {
+		display: block;
+		margin-top: 50px;
+	}
+	.promotion__image img {
+		width: 130%;
+		top: 1px;
+	}
+	.promotion__image {
+		display: none;
+	}
+	.m-block {
+		width: 100%;
+	}
+	.promotion__image {
+		width: 250px;
+		height: 250px;
+		margin: 0 auto;
+	}
+	.promotion-block {
+		margin: 0;
+		padding: 25px 25px 0 25px;
+	}
+	.promotion-content__title {
+		font-size: 40px;
+	}
+	.promotion-content {
+		margin-top: 0;
+	}
+	.form__title {
+		font-size: 18px;
+	}
+	.form-title {
+		margin-top: 25px;
+	}
+	.promotion-content__title span {
+		font-size: 40px;
+	}
+	.contact-form-list-item {
+		width: 100%;
+	}
+	.contact-form__text span {
+		font-size: 36px;
+	}
+	.address {
+		margin-bottom: 15px;
+	}
+	.promotion-conten__link {
+		width: 100%;
+	}
+	.brand-block {
+		justify-content: center;
+	}
+	.brand-block-item {
+		width: 35%;
+		margin: 0 15px 25px 15px;
+	}
+	.call {
+		padding: 25px;
+	}
+	.call__text a {
+		display: block;
+	}
+	.product-card {
+		margin: 25px 25px;
+	}
+	.m-line	{
+		height: 4px;
+		background-color: #FF3737;
+		width: 100%;	
+		position: relative;
+		top: -5px;
+	}
+	.m-bg {
+		margin-top: 50px;
+		position: relative;
+	}
+	.head img {
+		position: absolute;
+		top: -100px;
+		left: -25px;
+		transform: matrix(0.9135,-0.4067,0.4067,0.9135,-44,45);
+		-ms-transform: matrix(0.9135,-0.4067,0.4067,0.9135,-44,45);
+	}
+	.head-2 img {
+		position: absolute;
+		top: -200px;
+		left: -150px;
+		width: 523px;
+		height: 238px;
+		-webkit-transform: matrix(0.3907,-0.9205,0.9205,0.3907,65,436);
+		-ms-transform: matrix(0.3907,-0.9205,0.9205,0.3907,65,436);
+		transform: matrix(0.3907,-0.9205,0.9205,0.3907,65,436);
+	}
+}
